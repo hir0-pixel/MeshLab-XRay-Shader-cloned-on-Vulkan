@@ -101,4 +101,3 @@ The main goal of this project is to **reproduce MeshLab’s XRay shader physical
 - ✅ **Core XRay shader** implemented (MeshLab-inspired logic)
 - ✅ Successfully tested on **multi-million polygon meshes** (Armadillo, Lucy)
 - ✅ Stable real-time rendering with orbit camera + zoom
-- 🚧 Future work: shader optimization, performance profiling, and advanced visualization tweaks

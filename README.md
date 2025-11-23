@@ -66,7 +66,7 @@ Recommended formats:
 This X-Ray renderer has been tested on multi-million polygon meshes, including:
 
 - **Stanford Armadillo**
-- **Stanford Lucy**
+- **Stanford xyzrgb_dragon**
 
 Both run smoothly on modern GPUs (e.g., RTX 30-series) with the current Vulkan pipeline.
 
